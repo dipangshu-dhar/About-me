@@ -1,10 +1,10 @@
-Hi there, I'm Dipangshu! 👋
+# Heyo!, I'm Dipangshu! 😺
 
-🚀 Frontend Developer | UI Enthusiast
+# 🚀 Frontend Developer | UI Enthusiast
 
 I'm a passionate frontend developer who loves crafting beautiful and interactive web experiences. I enjoy turning ideas into reality using modern web technologies.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Languages: HTML, CSS, JavaScript, Python.
 
@@ -13,7 +13,7 @@ Frameworks & Libraries: React, Tailwind CSS.
 Tools: Git & GitHub, Acode, Live Server.
 
 
-🌟 About Me
+# 🌟 About Me
 
 🐧 A boy who has no friends but he is true at heart.Everyone always leaves him but he feels sad but also recovers. His only goal is to work solo. 
 
@@ -22,7 +22,7 @@ Tools: Git & GitHub, Acode, Live Server.
 💰 Exploring ways to earn as a developer and manage digital finances.
 
 
-📫 Connect with Me
+# 📫 Connect with Me
 
 GitHub: github.com/Dipangshu
 
