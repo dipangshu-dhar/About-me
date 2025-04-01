@@ -24,7 +24,7 @@ Tools: Git & GitHub, Acode, Live Server.
 
 # 📫 Connect with Me
 
-GitHub: github.com/Dipangshu
+GitHub: https://github.com/dipangshu-dhar
 
 Twitter: @DipangshuDev
 
