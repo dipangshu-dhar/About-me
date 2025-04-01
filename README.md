@@ -26,7 +26,7 @@ Tools: Git & GitHub, Acode, Live Server.
 
 GitHub: https://github.com/dipangshu-dhar
 
-Twitter: @DipangshuDev
+Twitter: https://x.com/dipangshutoday
 
 
 Let's build something amazing together! 🚀
